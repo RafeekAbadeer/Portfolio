@@ -11,8 +11,6 @@ I have removed 8337 observations due to unrealistic values and missing data.
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-After analyzing the dataset, I have found the following:
 
 I found relationship between duration and age, Longer trip durations are associated with younger users. I discovered also an interesting relation between trip start time and durations. whenever durations exceeds a specific threshold, users tend to weight to the next morning to end the trip rather than ending it late at night.
 I have also found less than expected numbers on Feb 13t, it turned out that there was a winter storm on that day.
@@ -20,7 +18,6 @@ I have also found less than expected numbers on Feb 13t, it turned out that ther
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
 The main threads presented re the Duration-Age relationship, and the Duration-Trip start hour relationship, and the mysterious few numbers of 13th of Feb.
 
